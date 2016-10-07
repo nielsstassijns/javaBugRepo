@@ -6,7 +6,7 @@ public class Book {
 
 	public Book(String name) {
 		super();
-		this.name = name
+		this.name = name;
 	}
 
 	public Book() {
